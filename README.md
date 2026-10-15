@@ -30,3 +30,5 @@ Practice commits, branches, merging, and remote synchronization.
 
 ## About
 Created for the Git and GitHub fundamentals lab.
+
+I practiced synchronizing local and remote Git changes.
