@@ -24,3 +24,6 @@ git log --oneline --graph --all
 
 ![Provided starter image](STARTER/assets/project-banner.svg)
 
+
+## Learning Goals
+Practice commits, branches, merging, and remote synchronization.
